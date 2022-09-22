@@ -11,7 +11,9 @@ very cool stuff
 ## Contributing
 working with starter code from "urban-octo-telegram.
 
-Thank you for sharing the code to get us started
+Thank you for sharing the code to get us started.
+
+I would also like to thank w3 for showing me how to format a form, that one took a second, but was fun.
 
 ## Version
 
